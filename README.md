@@ -1,7 +1,6 @@
 # 🎬 Movie Recommendation System
 
 Welcome to the Movie Recommendation System project! This repository contains the code and files for building a content-based movie recommendation system using Jupyter Notebook and deploying it with Streamlit.
-[![Movie Recommendation System](https://i.ibb.co/Kqcx3XX/Capture.png)](https://ibb.co/R0GTV99)
 
 ## 📁 Project Structure
 
@@ -53,5 +52,7 @@ streamlit run app.py
 
 8. Open your web browser and visit `http://localhost:8501` to access the Movie Recommendation System web application.
 
+
+[![Movie Recommendation System](https://i.ibb.co/Kqcx3XX/Capture.png)](https://ibb.co/R0GTV99)
 
 Feel free to explore the code, experiment with the data, and make improvements to the recommendation system! If you have any questions or feedback, please don't hesitate to reach out. Happy movie watching! 🍿🎉
